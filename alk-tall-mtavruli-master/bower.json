@@ -1,0 +1,28 @@
+{
+  "name": "alk-tall-mtavruli",
+  "description": "ALK Tall Mtavruli Web-Font Package",
+  "version": "1.0.0",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "alk-tall-mtavruli"],
+  "main": [
+    "css/alk-tall-mtavruli.css"
+  ],
+  "homepage": "https://github.com/web-fonts/alk-tall-mtavruli",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/alk-tall-mtavruli.git"
+  },
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md",
+    "font.json",
+    "package.json"
+  ]
+}
